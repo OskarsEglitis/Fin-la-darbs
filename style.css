@@ -1,0 +1,113 @@
+body {
+    margin: 200px;
+    background: linear-gradient(to bottom, #86858400, #40414083) fixed;
+}
+
+.top-navigation {
+    display: flex;
+    justify-content: flex-end;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Hammersmith One';
+    font-size: 25px;
+    color: black;
+    margin: 10px;
+}
+
+h1 {
+    text-decoration: none;
+    font-family: 'Hammersmith One';
+    font-size: 27px;
+    color: black;
+}
+
+.hobbies_image_1 {
+    width: 50%;
+}
+
+.beach_volleyball {
+    margin-bottom: 30px;
+}
+
+h2 {
+    text-decoration: none;
+    font-family: 'Hammersmith One';
+    font-size: 20px;
+    color: black;
+    margin: 5px 5px 5px 0px;
+}
+
+.hobbies_image_2 {
+    width: 50%;
+}
+
+.about-me-text {
+    margin: 10px 80px;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: -0.025em;
+    background-color: rgb(243, 241, 237);
+    box-shadow: 5px 5px 5px 5px rgb(129, 154, 155);
+}
+
+.about-me-image {
+    width: 40%;
+}
+
+.linkedin_icon {
+    margin: 0px;
+}
+
+.work_experience_list {
+    margin-right: 100px;
+    margin-left: 300px;
+}
+
+.company_name {
+    margin-left: 27px;
+    margin-bottom: 5px;
+    font-style: italic;
+}
+
+.work_description {
+    margin-left: 27px;
+    margin-top: 5px;
+}
+
+.description_1, .description_2, .description_3, .description_4 {
+    margin-top: 30px;
+    margin-right: 300px;
+    margin-left: 100px;
+}
+
+.time_period {
+    float: left;
+    margin-top: 30px;
+    margin-left: 5px;
+    margin-right: 0px;
+    font-family: 'Hammersmith One';
+    font-size: 22px;
+}
+
+.work_description_list {
+    float: right;
+    margin-top: 5px;
+}
+
+.description_time_1 {
+    margin-top: 0px;
+}
+
+.description_time_2 {
+    margin-top: 94px;
+}
+
+.description_time_3 {
+    margin-top: 94px;
+}
+
+.description_time_4 {
+    margin-top: 94px;
+}
